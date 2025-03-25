@@ -1,0 +1,61 @@
+body{background-color: rgb(35, 71, 100);}    
+    
+    h1 {
+    text-align: center;
+    color:white}
+    
+    p {color: white;}
+
+    #cabeçalho {
+    background-color: rgb(55, 135, 175);
+    text-align: center;
+    padding: 20px;
+    border: 100px;
+    margin-left: 100px;
+    margin-right:100px;}
+
+    img{max-width: 30%;
+    height: auto;
+    align-items: center;}
+
+    #objetivo{
+    text-align: center;}
+
+    #metas{
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;}
+
+    .conteudo{
+    background-color:rgb(48, 122, 105);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 100px;
+    margin-left: 30px;
+    margin-right: 30px;}
+
+    #introdução{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;}
+
+    #desenvolvimento{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;}
+    #img1{text-align: center;}
+
+    #desenvolvimento2{
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;}
+
+    #conclusão{
+    text-align: justify;
+    background-color: rgb(55, 135, 175);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding: 20px;
+    border: 100px;
+    margin-left: 30px;
+    margin-right:30px;}
